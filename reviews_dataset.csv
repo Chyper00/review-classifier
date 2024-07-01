@@ -1,0 +1,51 @@
+review,label
+"This restaurant is amazing, I loved the food!",1
+"The service was very slow and the food was cold.",-1
+"I didn't like the service, I wouldn't come back.",-1
+"Okay food, but the environment is very noisy.",0
+"Great place for dinner, I recommend it.",1
+"The food was delicious, but the service left something to be desired.",1
+"I was well received, but the food wasn't fresh.",-1
+"Excellent environment, quick service and tasty food!",1
+"I wouldn't recommend this place, very bad experience.",-1
+"Terrible service, I would never come back.",-1
+"Very good service and quality food.",1
+"The place is beautiful, but the prices are too high.",-1
+"Impeccable service, but the food wasn't up to the expected level.",-1
+"I liked the environment, but the food left something to be desired.",0
+"I recommend it to anyone who likes good service.",1
+"Terrible experience, I wouldn't come back at all.",-1
+"Excellent food, but the environment is a bit noisy.",0
+"I didn't like the service, very slow.",-1
+"Pleasant environment, but the food wasn't fresh.",-1
+"Excellent service, but the prices are high.",-1
+"The place is cozy, but the service left something to be desired.",1
+"Tasty food and fair price, I recommend it.",1
+"Quick and efficient service, but the food wasn't hot.",-1
+"Positive experience, I would come back again.",1
+"I don't recommend it, bad service and tasteless food.",-1
+"Good service, but the food was very salty.",0
+"Great food, but the service left something to be desired.",-1
+"Pleasant environment and delicious food!",1
+"The environment was nice, but the food was disappointing.",0
+"The service was terrible, I won't come back.",-1
+"Amazing food, but the service left something to be desired.",1
+"I recommend it, satisfactory experience.",1
+"Excellent service, but the food was cold.",-1
+"I wouldn't come back, bad service and tasteless food.",-1
+"Pleasant environment, but the service left something to be desired.",0
+"The food was okay, but the price is too high.",-1
+"I wouldn't recommend it, terrible experience.",-1
+"Quick service, but the food wasn't fresh.",-1
+"Cozy place, but the food wasn't good.",-1
+"The service left something to be desired, I wouldn't come back.",-1
+"Excellent experience, delicious food!",1
+"I didn't like the service, very slow and confusing.",-1
+"Beautiful environment, but very crowded.",0
+"Quality service, but the food wasn't fresh.",-1
+"I wouldn't recommend it, terrible service.",-1
+"Good service, but the food wasn't hot enough.",-1
+"Nice place, tasty food.",1
+"I wouldn't come back, the service left a lot to be desired.",-1
+"Bad experience, I don't recommend it.",-1
+"Excellent food, but the service left something to be desired.",1
